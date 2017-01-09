@@ -22,6 +22,7 @@ In this course I worked with the following technologies:
  - Python
  - Google Maps APIs
  - FourSquare APIs
+ - OpenStreetMaps
  - Oauth 2.0
  - Redis
  - Flask
